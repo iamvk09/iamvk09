@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamvk09&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/iamvk09?style=flat-square&color=6366F1&label=FOLLOWERS" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/iamvk09?style=flat-square&color=8B5CF6&label=REPOSITORY+STARS" alt="Repository Stars"/>
+  <img src="https://img.shields.io/github/stars/iamvk09/iamvk09?style=flat-square&color=8B5CF6&label=PROFILE+REPO+STARS" alt="Profile Repository Stars"/>
 </p>
 
 ---
@@ -241,46 +241,24 @@ Developing software applications and machine learning prototypes across predicti
 
 ## Achievements
 
-<p align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Recognition</th>
-        <th align="center">Details</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><strong>Published Research</strong></td>
-        <td>Co-authored research on explainable machine learning for industrial predictive maintenance.</td>
-      </tr>
-      <tr>
-        <td align="center"><strong>Research DOI</strong></td>
-        <td><a href="https://doi.org/10.55041/ijcope.v2i5.049">10.55041/ijcope.v2i5.049</a></td>
-      </tr>
-      <tr>
-        <td align="center"><strong>Applied AI Projects</strong></td>
-        <td>Developed machine learning applications for agricultural risk prediction and industrial diagnostics.</td>
-      </tr>
-      <tr>
-        <td align="center"><strong>Sports</strong></td>
-        <td>District-level Taekwondo participation and inter-college football tournament participation.</td>
-      </tr>
-    </tbody>
-  </table>
-</p>
+| Recognition | Details |
+|---|---|
+| **Published Research** | Co-authored research on explainable machine learning for industrial predictive maintenance. |
+| **Research DOI** | [10.55041/ijcope.v2i5.049](https://doi.org/10.55041/ijcope.v2i5.049) |
+| **Applied AI Projects** | Developed machine learning applications for agricultural risk prediction and industrial diagnostics. |
+| **Sports** | District-level Taekwondo participation and inter-college football tournament participation. |
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamvk09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C4B5FD&include_all_commits=true" height="180" alt="GitHub Statistics"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=iamvk09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C4B5FD&include_all_commits=true" height="180" alt="GitHub Statistics"/>
   <img src="https://streak-stats.demolab.com?user=iamvk09&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&dates=9CA3AF" height="180" alt="GitHub Streak Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvk09&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180" alt="Most Used GitHub Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamvk09&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180" alt="Most Used GitHub Languages"/>
 </p>
 
 ---
@@ -288,7 +266,9 @@ Developing software applications and machine learning prototypes across predicti
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamvk09&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%" alt="GitHub Profile Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.ryglcloud.net/?username=iamvk09&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%" alt="GitHub Profile Trophies"/>
+  </a>
 </p>
 
 ---
@@ -296,7 +276,7 @@ Developing software applications and machine learning prototypes across predicti
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvk09&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=818CF8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph"/>
+  <img src="https://ghchart.rshah.org/8B5CF6/iamvk09" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
